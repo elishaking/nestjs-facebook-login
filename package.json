@@ -23,7 +23,12 @@
   "dependencies": {
     "@nestjs/common": "^7.0.0",
     "@nestjs/core": "^7.0.0",
+    "@nestjs/passport": "^7.1.0",
     "@nestjs/platform-express": "^7.0.0",
+    "@types/passport-facebook": "^2.1.10",
+    "dotenv": "^8.2.0",
+    "passport": "^0.4.1",
+    "passport-facebook": "^3.0.0",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^6.5.4"
